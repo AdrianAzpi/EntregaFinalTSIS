@@ -1,0 +1,6 @@
+framework module Pods_CatGameTSIS2019_1 {
+  umbrella header "Pods-CatGameTSIS2019-1-umbrella.h"
+
+  export *
+  module * { export * }
+}
